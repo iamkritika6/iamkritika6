@@ -13,7 +13,7 @@
 
 I did an MSc in AI and spent my dissertation teaching neural networks to predict where CRISPR accidentally cuts DNA. Before that, and alongside it, I led shifts of 7 to 9 people at a noodle bar, which taught me more about deadlines than any module did. Now I'm building data projects and looking for my first role in the field.
 
-- **Open to:** data science, machine learning and data engineering roles in London and the Thames Valley
+- **Open to:** data science, machine learning and data engineering roles anywhere in the UK, remote or hybrid, and on-site around London and the Thames Valley
 - **Into:** machine learning you can actually trust, data engineering, and AI for biology
 - **Currently getting better at:** SQL and data modelling, one awkward dataset at a time
 
