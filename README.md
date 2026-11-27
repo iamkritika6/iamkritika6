@@ -11,7 +11,7 @@
 
 ---
 
-I did an MSc in AI and spent my dissertation teaching neural networks to predict where CRISPR accidentally cuts DNA. Before that, and alongside it, I led shifts of 7 to 9 people at a noodle bar, which taught me more about deadlines than any module did. Now I'm building data projects and looking for my first role in the field.
+I did an MSc in AI and spent my dissertation teaching neural networks to predict where CRISPR accidentally cuts DNA. Now I'm building data projects and looking for my first role in the field.
 
 - **Open to:** data science, machine learning and data engineering roles anywhere in the UK, remote or hybrid, and on-site around London and the Thames Valley
 - **Into:** machine learning you can actually trust, data engineering, and AI for biology
@@ -63,5 +63,3 @@ Predicting the asking price of residential property listings. On a test set of 2
 ## Say hi
 
 Best reached on [LinkedIn](https://www.linkedin.com/in/kritika-singh-chauhan-899bbb3b8) or by [email](mailto:chauhankritika.singh77@gmail.com).
-
-*Fun fact: getting through a lunch rush with nine people taught me to stay calm when everything breaks at once. Very useful for pipelines.*
