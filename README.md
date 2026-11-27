@@ -31,6 +31,12 @@ A PostgreSQL warehouse that links two UK government open datasets. It has raw, s
 
 `PostgreSQL` `SQL` `Docker` `Python`
 
+### [Bengaluru House Price Prediction](https://github.com/iamkritika6/house-price-prediction)
+
+Predicting the asking price of residential property listings. On a test set of 2,523 listings held back from every cleaning, training and tuning decision, half the predictions land within 16.2% of the asking price. I benchmarked it against a price-per-square-foot domain rule as well as predicting the median, because beating the median only proves the model learned something, while beating a sensible rule of thumb is what shows the machine learning earned its place. The README is clear that this models what sellers ask, not what buyers pay.
+
+`Python` `scikit-learn` `pandas`
+
 ## Toolbox
 
 <p>
