@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kritika-singh-chauhan-899bbb3b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:chauhankritika.singh77@gmail.com"><img src="https://img.shields.io/badge/Email-444444?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -37,6 +38,7 @@ A PostgreSQL warehouse that links two UK government open datasets. It has raw, s
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -54,6 +56,6 @@ A PostgreSQL warehouse that links two UK government open datasets. It has raw, s
 
 ## Say hi
 
-Best reached on [LinkedIn](https://www.linkedin.com/in/kritika-singh-chauhan-899bbb3b8).
+Best reached on [LinkedIn](https://www.linkedin.com/in/kritika-singh-chauhan-899bbb3b8) or by [email](mailto:chauhankritika.singh77@gmail.com).
 
 *Fun fact: getting through a lunch rush with nine people taught me to stay calm when everything breaks at once. Very useful for pipelines.*
